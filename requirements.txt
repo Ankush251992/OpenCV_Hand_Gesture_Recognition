@@ -1,0 +1,3 @@
+# Requirements for the hand gesture recognition project
+opencv-python==4.5.3  # For capturing video feed and image processing
+mediapipe==0.8.7.3  # For hand landmark detection
